@@ -1,8 +1,0 @@
-[build]
-  publish = "public"  # Adjust according to your project's directory structure
-  functions = "netlify/functions"
-
-[[redirects]]
-  from = "/evaluate"
-  to = "/.netlify/functions/evaluateExpression"
-  status = 200
