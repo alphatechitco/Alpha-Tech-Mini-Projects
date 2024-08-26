@@ -1,0 +1,7 @@
+[build]
+base    = "Expression-Tree-Evaluator2"
+publish = "Expression-Tree-Evaluator2/dist"  # Adjust as needed
+command = "npm run build"  # Adjust as needed
+
+[functions]
+directory = "Expression-Tree-Evaluator2/netlify/functions"
