@@ -1,0 +1,37 @@
+{
+    "length": {
+        "description": "Length is the measurement of the extent of something in one dimension. Common conversions include meters to feet.",
+        "formula": "1 meter = 3.28084 feet",
+        "example": "E.g., 5 meters = 5 * 3.28084 = 16.40 feet."
+    },
+    "weight": {
+        "description": "Weight is the measure of the gravitational force acting on an object. Common conversions include kilograms to pounds.",
+        "formula": "1 kilogram = 2.20462 pounds",
+        "example": "E.g., 10 kg = 10 * 2.20462 = 22.05 pounds."
+    },
+    "temp": {
+        "description": "Temperature is a measure of the heat or coldness of an object or environment. Common conversions include Celsius to Fahrenheit.",
+        "formula": "°F = (°C * 9/5) + 32",
+        "example": "E.g., 25°C = (25 * 9/5) + 32 = 77°F."
+    },
+    "area": {
+        "description": "Area is the measurement of the surface of an object. Common conversions include square meters to square feet.",
+        "formula": "1 square meter = 10.7639 square feet",
+        "example": "E.g., 15 square meters = 15 * 10.7639 = 161.46 square feet."
+    },
+    "speed": {
+        "description": "Speed is the rate at which an object moves. Common conversions include meters per second to kilometers per hour.",
+        "formula": "1 m/s = 3.6 km/h",
+        "example": "E.g., 10 m/s = 10 * 3.6 = 36 km/h."
+    },
+    "volume": {
+        "description": "Volume is the quantity of three-dimensional space occupied by an object. Common conversions include liters to gallons.",
+        "formula": "1 liter = 0.264172 gallons",
+        "example": "E.g., 20 liters = 20 * 0.264172 = 5.28 gallons."
+    },
+    "pressure": {
+        "description": "Pressure is the force applied perpendicular to the surface of an object per unit area. Common conversions include Pascals to PSI.",
+        "formula": "1 Pascal = 0.000145038 PSI",
+        "example": "E.g., 50000 Pascals = 50000 * 0.000145038 = 7.25 PSI."
+    }
+}
